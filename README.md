@@ -1,11 +1,11 @@
 
-# Self-Healing Smart Grid Using Agentic AI
+# Self-Healing Smart Grid Using Agentic AI:One Unified Framework for Fault Prediction, Autonomous Isolation, and Real-Time Restoration
 
-## One Unified Framework for Fault Prediction, Autonomous Isolation, and Real-Time Restoration
 
-This project implements a **single, end-to-end self-healing smart grid framework** where **AI models and autonomous agents work together** to detect faults, isolate faulty sections, and restore power in real time.
 
-The entire system operates as **one integrated framework**, combining **deep learning**, **multi-agent reinforcement learning**, and **power grid simulation**.
+This project implements a single, end-to-end self-healing smart grid framework where AI models and autonomous agents work together to detect faults, isolate faulty sections, and restore power in real time.
+
+The entire system operates as one integrated framework, combining deep learning, multi-agent reinforcement learning, and power grid simulation.
 
 
 
