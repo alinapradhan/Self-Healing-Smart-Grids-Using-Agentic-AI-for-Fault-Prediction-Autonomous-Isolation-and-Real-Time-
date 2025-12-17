@@ -151,22 +151,3 @@ This unified framework is suitable for:
 This project demonstrates how **Agentic AI can enable a truly self-healing smart grid** by unifying fault prediction, autonomous control, and real-time grid restoration into **one coherent framework**.
 ```
 
----
-
-### ✅ This is what examiners want:
-
-* **One system**
-* **One pipeline**
-* **One framework**
-* **Clear AI → action → recovery story**
-
-If you want, I can now:
-
-* Convert this into **one block diagram**
-* Turn it into **IEEE paper introduction**
-* Simplify it for **viva explanation**
-
-Just tell me.
-
-   
- 
