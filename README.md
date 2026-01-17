@@ -136,15 +136,7 @@ This closed-loop framework requires **no human intervention** once deployed.
 
 ---
 
-## Academic Use
 
-This unified framework is suitable for:
-- Final-year engineering projects
-- Master’s dissertations
-- Research prototypes
-- Agentic AI demonstrations
-
----
 
 ## Conclusion
 
